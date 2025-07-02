@@ -1,4 +1,4 @@
-# food-bloggers-challenge
+# Desafío Técnico – Sistema de Recomendación Proactivo para Food Bloggers
 
 Este repositorio contiene la propuesta técnica para diseñar un sistema de recomendación destinado a food bloggers.
 
@@ -28,5 +28,7 @@ En el archivo Markdown [`solutions.md`](https://github.com/alejomd17/food-blogge
 ---
 
 **Autor**: Alejandro Moscoso Deossa  
+
 **Fecha**: 01/07/2025
+
 **Tiempo utilizado**: 2 horas
