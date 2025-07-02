@@ -2,13 +2,14 @@
 
 Este repositorio contiene la propuesta técnica para diseñar un sistema de recomendación destinado a food bloggers.
 
-## Contexto
-La aplicación “freshFork” ayuda a creadores de recetas saludables a anticipar tendencias de ingredientes.
-El objetivo es sugerir nuevas recetas originales, basadas en ingredientes que empiezan a ganar popularidad tanto en redes sociales como en supermercados y plataformas de venta de alimentos.
-
-## Objetivo
-
-Diseñar un sistema capaz de detectar tendencias emergentes en ingredientes y recomendar recetas originales para que los creadores puedan adelantarse a las tendencias del mercado.
+## Contexto y Objetivo
+La aplicación **freshFork** ayuda a creadores de recetas saludables a anticipar tendencias de ingredientes mediante un sistema inteligente que:
+1. Detecta ingredientes emergentes (en redes sociales, supermercados y plataformas de venta)
+2. Genera recomendaciones de recetas originales que combinan:
+   - Tendencias de mercado
+   - Preferencias históricas del blogger
+   - Valor nutricional
+3. Permite a los creadores publicar contenido adelantándose a las tendencias
 
 ## Estructura
 
