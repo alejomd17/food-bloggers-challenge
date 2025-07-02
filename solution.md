@@ -115,7 +115,7 @@ flowchart  TD
 
 ### **Online (A/B Testing)**
 | KPI | Definición |
-|-----|--------------------------|--------|
+|-----|--------------------------|
 | **CTR** | Clics/Recomendaciones mostradas |
 | **Adopción** | % de recetas guardadas por receta recomendada |
 | **Retención** | Usuarios que vuelven en 7 días |
