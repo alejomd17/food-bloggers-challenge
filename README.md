@@ -25,11 +25,8 @@ En el archivo Markdown [`solutions.md`](https://github.com/alejomd17/food-blogge
 3. Supuestos, Trade-offs y Riesgos + Pensamientos criticos
 4. Métricas y Experimentación (offline, online, modelo y negocio)
 
-## Tiempo total utilizado
-
-**2 horas**
-
 ---
 
 **Autor**: Alejandro Moscoso Deossa  
 **Fecha**: 01/07/2025
+**Tiempo utilizado**: 2 horas
