@@ -13,8 +13,10 @@
 ```mermaid
 flowchart  TD
     %% --- Flujo Central Vertical ---
-    A[(APIs Externas:<br>X, Perplexity, Walmart)] --> B@{ shape: lin-cyl, label: "Lake de Datos" }
-    C[(Historial de Recetas)] --> B
+    A[(APIs:<br>X, Perplexity, OpenAI)] --> B@{ shape: lin-cyl, label: "Lake de Datos" }
+    P[(APIs:<br> Walmart, OpenFoodFacts)] --> B
+    T[(Historial de Recetas)] --> B
+    C[(Dataset público<br> información nutricional)] --> B
     B --> D[Preprocesamiento ETL<br>Clean, merging]
     D --> E[Extracción de Features Clave]
     E --> F[Modelo de Tendencias]
